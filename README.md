@@ -11,7 +11,7 @@ and hopefully this repo can serve as a template for other Django projects.
 
 Clone this repository and install the development tools:
 
-    $ git clone https://github.com/codeinthehole/django-deb-file.git
+    $ git clone https://github.com/codeinthehole/django-in-a-deb-file.git
     $ cd django-deb-file
     $ fab package
 
